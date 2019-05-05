@@ -24,7 +24,7 @@ Perhatian: Karakter ‘/’ adalah karakter ilegal dalam penamaan file atau fold
 
 Jawab :
 
-Langakh pertama adalah membuat sebuah file sistem yang dibuat ke /home/isnaini/Shift4, lalu ubah nama file yang ada pada folder tersebut menjadi [nama file].[ekstensi].bak. File .bak tersebut hanya dapat dibaca.
+Langkah pertama adalah membuat sebuah file sistem yang dibuat ke /home/isnaini/Shift4, lalu ubah nama file yang ada pada folder tersebut menjadi [nama file].[ekstensi].bak. File .bak tersebut hanya dapat dibaca.
 
 Source Code dan penjelasan:
 ```
